@@ -66,6 +66,8 @@ MonoBehaviour:
   - ToggleLock
   - DestroyTargetRPC
   - SpawnTargetRPC
+  - SpawnLeft
+  - SpawnRight
   DisableAutoOpenWizard: 1
   ShowSettings: 1
   DevRegionSetOnce: 1
